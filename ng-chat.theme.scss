@@ -9,6 +9,7 @@ $text-color: #FFF;
 
 #ng-chat.dark-theme
 {
+    background-color: white;
     @extend %text-definition;
 
     .primary-background
